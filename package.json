@@ -1,0 +1,17 @@
+{
+  "name": "simple-express-crud",
+  "version": "0.0.1",
+  "author": "Sergio Ariza",
+  "description": "Simple CRUD with Node.js, MongoDB, Mongoose and Express Framework",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^4.10.2",
+    "method-override": "^2.3.0",
+    "mongoose": "^3.8.19",
+    "morgan": "^1.5.0"
+  }
+}
