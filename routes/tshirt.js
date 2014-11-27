@@ -3,7 +3,7 @@
  *
  * @module      :: Routes
  * @description :: Maps routes and actions
- * @author        :: Kevin Blanco
+ * @author      :: Sergio Ariza
  */
 
 var Tshirt = require('../models/tshirt.js');
